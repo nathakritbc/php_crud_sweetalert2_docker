@@ -19,7 +19,7 @@
 
 ติดต่อ <a href="#"> : 061-103-3102</a><br/>
 
-<h3>Facebook : <a href="https://www.facebook.com/profile.php?id=100040304628322">พี่เจมส์ ตาโต</a></h3>
+<h3>Facebook : <a href="https://www.facebook.com/photo?fbid=725828418770639&set=a.108947717125382">พี่เจมส์ ตาโต</a></h3>
 
 <h1>หน้าเเสดง สินค้า</h1>
 <img src="www/reviews/ProductsList.png" />
