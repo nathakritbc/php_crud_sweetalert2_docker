@@ -22,26 +22,26 @@
 <h3>Facebook : <a href="https://www.facebook.com/profile.php?id=100040304628322">พี่เจมส์ ตาโต</a></h3>
 
 <h1>หน้าเเสดง สินค้า</h1>
-<img src="reviews/ProductsList.png" />
+<img src="www/reviews/ProductsList.png" />
 <br/>
 <h1>บันทึก สินค้า</h1>
-<img src="reviews/insertProduct.png" />
+<img src="www/reviews/insertProduct.png" />
 <br/>
-<img src="reviews/insertSuccess.png" /> 
+<img src="www/reviews/insertSuccess.png" /> 
 <br/>
 <br/>
 <h1>ลบสินค้า</h1>
-<img src="reviews/DeleteProduct.png" />
+<img src="www/reviews/DeleteProduct.png" />
 <br/>
-<img src="reviews/DeleteSuccess.png" />
+<img src="www/reviews/DeleteSuccess.png" />
 <br/>
 <h1>เเก้ไข สินค้า</h1>
-<img src="reviews/UpdateData.png" />
+<img src="www/reviews/UpdateData.png" />
 <br/>
-<img src="reviews/UpdateSuccess.png" />
+<img src="www/reviews/UpdateSuccess.png" />
 <br/>
 <h1>เกี่ยวกับฉัน</h1>
-<img src="reviews/Contract.png" /><br/>
+<img src="www/reviews/Contract.png" /><br/>
 <hr>
 <h1>โครงสร้างฐานข้อมูล</h1>
 <hr>
