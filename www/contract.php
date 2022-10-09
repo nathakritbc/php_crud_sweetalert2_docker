@@ -42,7 +42,7 @@ if (isset($_SESSION['a_username'])) {?>
                 <div class="col-md-7 mb-4">
 
                     <div class="view">
-                        <img src="https://scontent.fkkc3-1.fna.fbcdn.net/v/t1.0-9/72392613_133924427961044_4001461810950569984_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFuqM6gtxSriNCIWVKhBkWs_kJXJ3_66D_-Qlcnf_roP-fQmxVFf504BZH93jXnoif5ZI_LZLLuZ-w4o8opyeCI&_nc_ohc=pKO9vDjd4MEAX_0H8eg&_nc_ht=scontent.fkkc3-1.fna&oh=02f9e56c5c3aeb8fc7340d0ecbee03f4&oe=607807A3"
+                        <img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t39.30808-6/283985604_725828415437306_38237685636193656_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=crASVa7mXgcAX9wuhTD&_nc_ht=scontent.fbkk5-3.fna&oh=00_AT8liVeRQGMt5PMJeQJua3QCmLR4_Vsw7ax8J6v-lM38Bw&oe=634742C8"
                             class="img-fluid" alt="smaple image">
                     </div>
 
